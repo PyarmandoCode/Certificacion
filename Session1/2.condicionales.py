@@ -5,5 +5,5 @@ elif edad>=14 and edad<=17:
     print("La persona es un adolecente")
 else:
     print("La persona es Mayor de Edad")    
--
+
 

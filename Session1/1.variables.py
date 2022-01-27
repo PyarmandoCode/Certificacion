@@ -9,6 +9,7 @@ estado=True
 lista_cursos=["PYTHON","DJANGO","FLASK"]
 empleados={'A100':'ARMANDO','A200':'JOSE','A300':'RAUL'}
 sueldos=(1900,200,1800)
+valores={'100','200'} #SET
 
 
 #DocString

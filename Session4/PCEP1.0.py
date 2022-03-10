@@ -4,11 +4,11 @@
 print(9**3**0**1)
 
 A. 3
-B. 9
+# todo B. 9
 C. 1 
 D. 18
 
-respuesta D
+respuesta B
 """
 """
 # todo Pregunta2
@@ -102,28 +102,8 @@ D. Groceries trip pending
 Respuesta D
 
 """
-"""
-
-# todo Pregunta7
-
-What will the output be after executing the following code?:
-
-milk_left = "None"
-if milk_left:
-    print("Groceries trip pending!")
-else:
-    print("Let's enjoy a bowl of cereals")
-    
-A. Error
-B. None
-C. Let's enjoy a bowl of cereals
-D. Groceries trip pending    
-
-Respuesta D
 
 """
-"""
-
 # todo Pregunta8
 
 What will the output be after executing the following code?
@@ -136,12 +116,12 @@ val = [0, 1, 2, 3, 4, 5]
 y = put(val);
 print(y)
     
-A. [6]
+# todo A. [6]
 B. [0, 1, 2, 3, 4, 5]
 C. -6
 D. (0,1,2,3,4)
 
-Respuesta D
+Respuesta A
 
 
 """

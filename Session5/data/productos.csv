@@ -1,0 +1,4 @@
+id,nombre,precio,estado,stock,area
+1,LAPTOP,2500,1,20,almacen1
+2,IMPRESORA,400,1,180,almacen2
+3,TECLADO,24,1,1,almacen2
